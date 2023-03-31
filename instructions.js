@@ -42,22 +42,25 @@ const PRE_PRACTICE_INSTRUCTION =
 
 const FIRST_STORY_BEGINS =
     "<h1>"                                                              +
-    "Hit the spacebar when ready to start reading the first story"      +                                
-    "</h1>"                                                             
+    "Hit the spacebar when ready to start reading the first story."      +                                
+    "</h1>"                                                           	+
+    "<p>"																	+
+    "Each sentence is broken up into words."	 						+
+    "You can reveal the sentence word-by-word by repeatedly hitting the spacebar. </p>"  
 
 const SECOND_STORY_BEGINS =
     "<h1>"                                                              +
-    "Hit the spacebar when ready to start reading the second story"      +                                
+    "Hit the spacebar when ready to start reading the second story."      +                                
     "</h1>"                                                             
 
 const THIRD_STORY_BEGINS =
     "<h1>"                                                              +
-    "Hit the spacebar when ready to start reading the third story"      +                                
+    "Hit the spacebar when ready to start reading the third story."      +                                
     "</h1>"                                                             
 
 const FOURTH_STORY_BEGINS =
     "<h1>"                                                              +
-    "Hit the spacebar when ready to start reading the fourth story"      +                                
+    "Hit the spacebar when ready to start reading the fourth story."      +                                
     "</h1>"                                                             
 
 const PRE_TEST_INSTRUCTION = 
